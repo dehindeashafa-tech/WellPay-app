@@ -43,7 +43,7 @@ MVP in development.
 
 ## Screenshots
 
-(Add screenshots here later)
+
 
 ## Author
 
