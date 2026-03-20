@@ -69,7 +69,8 @@ This allows users to:
 **For the Ecosystem:**
 - Higher insurance adoption  
 - Better healthcare utilization  
-- Reduced reliance on high-risk informal borrowing  
+- Reduced reliance on high-risk informal borrowing
+- Helps toward achieving of UN SDG goal 3.8: Universal Heath coverage by 2030 
 
 ---
 
