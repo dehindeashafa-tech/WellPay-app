@@ -36,6 +36,7 @@ This ensures users can access care when needed without financial strain.
 - Adalo (No-code app builder)
 - Firebase (optional for backend services)
 - USSD integration (planned)
+- AI Integration (planned)
 
 ## Project Status
 
